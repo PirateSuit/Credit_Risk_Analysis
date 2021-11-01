@@ -1,7 +1,7 @@
 # Credit Risk Analysis
 
 ## Purpose
-The purpose of this analysis is to use different machine learning models on a dataset of credit cards to assess risk, and then to determine which, if any, of the models are strong enough to recommend to use for this purpose.
+The purpose of this analysis is to use different machine learning models on a dataset of credit cards to assess risk and then to determine which, if any, of the models are strong enough to recommend to use for this purpose.
 
 ## Results
 
@@ -25,7 +25,7 @@ Balanced Random Forest
 Easy Ensemble
 ![image](https://github.com/PirateSuit/Credit_Risk_Analysis/blob/main/images/easy_ensemble.png)
 
-Ideally, one of our models would perfectly identify each high risk loans while also not falsely flagging low risk loans as high risk. We would also want the model to have a high accuracy and precision scores. Here are how the models performed on each of these tasks.
+Ideally, one of our models would perfectly identify each high risk loans while also not falsely flagging low risk loans as high risk. We would also want the model to have a high accuracy and precision scores. Here are how the models performed on each of these tasks:
 
 ### Recall for High Risk
 -Random Oversample: 62%<br>
